@@ -1,5 +1,5 @@
 ## Личная информация
-<img align="right" src="https://raw.githubusercontent.com/ilyachase/curriculum_vitae/master/img/me.jpg?token=AAO6Y5O7BCEZFCMWP6CYJZS5STHMQ" alt="Sublime's custom image"/>
+<img align="right" src="https://raw.githubusercontent.com/ilyachase/curriculum_vitae/master/img/me.jpg?token=AAO6Y5O7BCEZFCMWP6CYJZS5STHMQ" alt="ilya.chase"/>
 
 - ФИО: Левин Илья Викторович
 - Дата рождения: 06.12.1992
@@ -12,9 +12,9 @@
 Высшее: факультет Вычислительной математики и информатики (ВМИ) ЮУрГУ, направление «Фундаментальная информатика и информационные технологии». Очно, бюджет.
 
 ## Опыт работы
-- *Май  2016 – октябрь  2019.*
-- *Компания «[Hearst Shkulev Digital Regional Network](http://www.hearst-shkulev-media.ru/projects/rn/)».*
-- *Должность: PHP-программист, ведущий PHP-программист, Тимлид.*
+- *Май 2016 – октябрь 2019.*
+- *Компания: «[Hearst Shkulev Digital Regional Network](http://www.hearst-shkulev-media.ru/projects/rn/)».*
+- *Должность: PHP-программист, Ведущий PHP-программист, Тимлид.*
 
 ## О себе
 ### Кратко о карьере
@@ -23,7 +23,19 @@
 
 ### О компетенциях
 #### Код
+В момент устройства в 74.ru, наша команда активно развивала проект, на котором «крутились» все сайты [сети Rugion](https://rugion.ru/stat/): 74.ru, 72.ru, 63.ru и остальные. Помимо новостных ресурсов, на том же коде работали classified-площадки: domchel.ru (сейчас интегрирован с N1), autochel.ru (сейчас интегрирован с auto.ru) и их зеркала на других регионах.
+
+Код представлял собой рукописный фреймворк с более чем 1 300 000 строк (без учёта вендоров). В тот момент для меня это была самая сложная система, над которой я когда-либо работал. В результате, получил скачкообразный рост, познакомился со многими подходами (реализация отказоустойчивости, распределение нагрузки, организация кода в мульти-доменной многосервисной системе) и хайлоадными «фишками» (изменение структуры очень горячих таблиц, работа с «долгими» скриптами (от нескольких дней), умный stale-кэшинг и т.д.).
+
+<img align="center" src="https://raw.githubusercontent.com/ilyachase/curriculum_vitae/master/img/stanok_code_stats.jpg?token=AAO6Y5JKFC7RRAEOU7ZL6ZC5STJJ4" alt="Stanok code stats"/>
+
 #### Фреймворки
+yii2, laravel, symfony, slim -> clean architecture
+#### Инфраструктура
+Nginx, haproxy
 #### Тестирование
+tests are awesome
 #### Хранилища
+relative, mongodb, no-sql, search engines
 #### Мониторинг
+Sentry, grafana
