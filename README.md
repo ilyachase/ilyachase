@@ -1,5 +1,5 @@
 ## Личная информация
-<img align="right" src="https://raw.githubusercontent.com/ilyachase/curriculum_vitae/master/img/me.jpg?token=AAO6Y5O7BCEZFCMWP6CYJZS5STHMQ" alt="ilya.chase"/>
+<img align="right" src="https://github.com/ilyachase/curriculum_vitae/blob/master/img/me.jpg?raw=true" alt="ilya.chase"/>
 
 - ФИО: Левин Илья Викторович
 - Дата рождения: 06.12.1992
@@ -27,7 +27,7 @@
 
 Код представлял собой рукописный фреймворк с более чем 1 300 000 строк (без учёта вендоров). В тот момент для меня это была самая сложная система, над которой я когда-либо работал. В результате, получил скачкообразный рост, познакомился со многими подходами (реализация отказоустойчивости, распределение нагрузки, организация кода в мульти-доменной многосервисной системе) и хайлоадными «фишками» (изменение структуры очень горячих таблиц, работа с «долгими» скриптами (от нескольких дней), умный stale-кэшинг и т.д.).
 
-<img align="center" src="https://raw.githubusercontent.com/ilyachase/curriculum_vitae/master/img/stanok_code_stats.jpg?token=AAO6Y5JKFC7RRAEOU7ZL6ZC5STJJ4" alt="Stanok code stats"/>
+<img align="center" src="https://github.com/ilyachase/curriculum_vitae/blob/master/img/stanok_code_stats.jpg?raw=true" alt="Stanok code stats"/>
 
 #### Фреймворки
 yii2, laravel, symfony, slim -> clean architecture
