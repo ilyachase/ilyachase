@@ -63,7 +63,9 @@ tests are awesome
 
 И вообще, считаю полезным уметь при необходимости из терминала отредактировать файл через vim, что-нибудь grep-нуть, а если надо, то послушать весь трафик по порту через ngrep.
 
-<img align="center" src="https://github.com/ilyachase/curriculum_vitae/blob/master/img/ngrep.png?raw=true" alt="ngrep" />
+<p align="center">
+  <img src="https://github.com/ilyachase/curriculum_vitae/blob/master/img/ngrep.png?raw=true" alt="ngrep" />
+</p>
 
 #### Мониторинг
 Sentry, grafana
