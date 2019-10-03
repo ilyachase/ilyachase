@@ -27,7 +27,9 @@
 
 Код представлял собой рукописный фреймворк с более чем 1 300 000 строк (без учёта вендоров). В тот момент для меня это была самая сложная система, над которой я когда-либо работал. В результате, получил скачкообразный рост, познакомился со многими подходами (реализация отказоустойчивости, распределение нагрузки, организация кода в мульти-доменной многосервисной системе) и хайлоадными «фишками» (изменение структуры очень горячих таблиц, работа с «долгими» скриптами (от нескольких дней), умный stale-кэшинг и т.д.).
 
-<img align="center" src="https://github.com/ilyachase/curriculum_vitae/blob/master/img/stanok_code_stats.jpg?raw=true" alt="Stanok code stats"/>
+<p align="center">
+  <img src="https://github.com/ilyachase/curriculum_vitae/blob/master/img/stanok_code_stats.jpg?raw=true" alt="Stanok code stats"/>
+</p>
 
 Далее были проекты вертикали НГС: Знакомства, Афиша, Форум, Объявления. Они были написаны давно, на внутреннем фреймворке. По сути, все стандартные элементы любого фреймворка, но написанные руками: роутинг, request\response, ORM, CLI-команды.
 Для НГС.Афиши писали новое API на фреймворке Slim, описывали Swagger'ом.
@@ -41,7 +43,9 @@
 
 Работая на Slim 3, тут и там сталкиваешься с тем, что нужно внедрить довольно тривиальный функционал: поддержка CLI-команд, авторизация\аутентификация, поддержку кэшей и т.д. Ничего этого нет в Slim «из коробвки» (ведь это микрофреймворк), и в данной ситуации отлично помогает Symfony. Их реализация [консольных команд](https://symfony.com/doc/current/console.html) остаётся моей любимой, а [компонент авторизации](https://symfony.com/doc/current/components/security/authentication.html) действительно framework agnostic и безболезненно интегрируется в Slim (да и любой другой фреймворк). Отдельной похвалы заслуживает [DomCrawler](https://symfony.com/doc/current/components/dom_crawler.html), который избавляет от [боли](https://stackoverflow.com/a/1732454) работы с разметкой через регулярки или XPath (который [не так тривиален](https://stackoverflow.com/a/1604480), как кажется на первый взгляд).
 
-<img align="center" src="https://github.com/ilyachase/curriculum_vitae/blob/master/img/code_example.png?raw=true" alt="Stanok code stats"/>
+<p align="center">
+  <img src="https://github.com/ilyachase/curriculum_vitae/blob/master/img/code_example.png?raw=true" alt="Stanok code stats"/>
+</p>
 
 Желание болшьше писать на микрофреймворках обусловлено стремлением к написанию framework agnostic кода. Со временем хочу прийти к написанию приложений не на MVC, который морально устаревает, а на какой-нибудь реализации Clean Architecture, которая по определению не зависит от фреймворков. Пока что прихожу к тому, чтобы более тщательно раскладывать код по модулям, и более детально разбиваю букву «M» из MVC на слои.
 
