@@ -8,13 +8,25 @@
 - Контактный телефон: +7 900 026 4321
 - Адрес электронной почты: ilya.chase@yandex.ru
 
-## Образование
-Высшее: факультет Вычислительной математики и информатики (ВМИ) ЮУрГУ, направление «Фундаментальная информатика и информационные технологии». Очно, бюджет.
+## Стэк
+Languages: PHP (Laravel, Symfony, Yii2, Slim, plain modern php7), Javascript (jQuery, Vue.js, vanilla ES6), Golang, HTML, CSS.
+Tests: PHPUnit, Codeception, Selenium.
+DBs: MariaDB, MongoDB, Percona, Apache Cassandra.
+Cache: Memcache, Redis.
+Async: RabbitMQ, beanstalkd.
+Containerization, CI\CD: Docker, drone.io, Jenkins.
+Infrastructure: Nginx, PHP-FPM, HAProxy, Sentry, Pinba, Grafana.
+
+## Примеры кода
+[Раз](https://github.com/ilyachase/realforce_coding_test) и [два](https://github.com/ilyachase/rainbow_score_api).
 
 ## Опыт работы
 - *Май 2016 – октябрь 2019.*
 - *Компания: «[Hearst Shkulev Digital Regional Network](http://www.hearst-shkulev-media.ru/projects/rn/)».*
 - *Должность: PHP-программист, Ведущий PHP-программист, Тимлид.*
+
+## Образование
+Высшее: факультет Вычислительной математики и информатики (ВМИ) ЮУрГУ, направление «Фундаментальная информатика и информационные технологии». Очно, бюджет.
 
 ## О себе
 ### Кратко о карьере
