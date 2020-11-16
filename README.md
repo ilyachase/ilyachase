@@ -66,6 +66,7 @@ As a result, business tasks wasn't stuck, but we also made a good job on the imp
 
 After that, I started working as a full-time remote PHP-developer at Realforce.
 Here I've learned more deeply the beauty of Symfony, and now I actually use it in every side-project.
+Also, worked more closely with Elasticsearch and liked it a lot.
 
 Overall, I would say that I love modern frameworks and clean coding, but I'm not afraid of difficult tasks related to old and big legacy projects.
 
