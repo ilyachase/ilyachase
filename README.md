@@ -1,100 +1,74 @@
-## Личная информация
-<img align="right" src="https://github.com/ilyachase/curriculum_vitae/blob/master/img/me.jpg?raw=true" alt="ilya.chase"/>
+## Личная информация  
+<img align="right" src="https://github.com/ilyachase/curriculum_vitae/blob/master/img/me.jpg?raw=true" alt="ilya.chase"/>  
+  
+- Full name: Levin Ilya Viktorovich  
+- Birth date: 06.12.1992  
+- Family status: single  
+- Current location: Russia, Chelyabinsk  
+- Email address: ilya.chase@yandex.ru
+  
+## Education  
+South Ural State University: Mathematics and Information Technology
+  
+## Skillset  
+- Backend:
+	- PHP - Symfony, Laravel, Yii2, Slim, Vanilla PHP7
+	- Golang
+- Frontend:
+	- React, redux, axios
+	- Bootstrap, HTML5, CSS3
+- Tests:
+	- PHPUnit, Codeception
+	- Jest
+	- Selenium
+- Storages:
+	- MySQL, Percona
+	- Memcache, Redis
+	- MongoDB, Apache Cassandra
+- Async
+	- RabbitMQ, beanstalk
+- Containerization, CI\CD:
+	- Docker, docker-compose
+	- Github actions, Bitbucket pipelines, drone.io, Jenkins
+- Infrastructure:
+	- Nginx, PHP-FPM, HAProxy, Sentry, Grafana
+- Profiling:
+	- Pinba, Blackfire
+  
+## Working experience  
+- *2016 – 2019*  
+	- *Company: «[Hearst Shkulev Digital Regional Network](http://www.hearst-shkulev-media.ru/projects/rn/)».*  
+	- *Position: Senior PHP-developer, Teamlead.*  
+- *2019 - currently*  
+	- *Company: «[Realforce](https://www.realforce.ch/)».*  
+	- *Position: Senior PHP-developer (remote).*
 
-- ФИО: Левин Илья Викторович
-- Дата рождения: 06.12.1992
-- Семейное положение: холост
-- Локация: г. Челябинск
-- Контактный телефон: +7 900 026 4321
-- Адрес электронной почты: ilya.chase@yandex.ru
+## About me
+Right after finishing my bachelor's degree, I started working as junior PHP developer at popular high-load News site called 74.ru. I wanted to go exactly in this company because it's a complex product with a lot of daily viewers, therefore with sophisticated distribution, storing and caching solutions. By the end of the year, I was promoted to Senior PHP developer. After one more year, I was proposed to become a team lead, and I chose to take this responsibility. Beside working on News site, our team started supporting such projects as [NGS.Love] (https://love.ngs.ru/), [NGS.Afisha] (https://afisha.ngs.ru/) , [NGS.Forum] (https://forum.ngs.ru/), [NGS.Advertisement] (https://do.ngs.ru/) and others. I managed a team of 6 great developers.
+I was engaged in the entire spectrum of development - not only code, but also architecture and design of applications, infrastructure, CI \ CD, improvement of the development process (integrated SCRUM).
+Along the way I never stopped learning, and I chose freelance as an instrument to learn new technologies and get more real-life experience. [Here] (https://www.upwork.com/freelancers/~012c6b4205549a7dc4) you can see some of my recent freelance work.  
 
-## Опыт работы
-- *Май 2016 – октябрь 2019.*
-- *Компания: «[Hearst Shkulev Digital Regional Network](http://www.hearst-shkulev-media.ru/projects/rn/)».*
-- *Должность: PHP-программист, Ведущий PHP-программист, Тимлид.*
+At 74.ru, our team was actively developing self-written engine to serve [all news sites of our network](https://rugion.ru/stat/). Beside News, some ads platforms was working on the same engine: domchel.ru (now integrated with N1), autochel.ru (integrated with auto.ru), so I earned experience with relatively sophisticated real-estate and cars-selling systems.   
+The engine itself was more than 1 300 000 lines of code. At the moment, it was the most sophisticated system I was working on. As a result, my skills has grown rapidly in a short amount of time, I've learned a lot of different approaches to implement fault tolerance, load balancing, organizing code to serve multi-domain multi-service product, and a lot of high-load "tricks" (e.g. changing structure of very loaded MySQL tables, working with very long scripts (more than one day), intelligent stale-caching, etc.).  
 
-## Образование
-Высшее: факультет Вычислительной математики и информатики (ВМИ) ЮУрГУ, направление «Фундаментальная информатика и информационные технологии». Очно, бюджет.
-
-## Стэк
-- Languages: PHP (Laravel, Symfony, Yii2, Slim, plain modern php7), Javascript (jQuery, Vue.js, vanilla ES6), Golang, HTML, CSS.
-- Tests: PHPUnit, Codeception, Selenium.
-- DBs: MariaDB, MongoDB, Percona, Apache Cassandra.
-- Cache: Memcache, Redis.
-- Async: RabbitMQ, beanstalkd.
-- Containerization, CI\CD: Docker, drone.io, Jenkins.
-- Infrastructure: Nginx, PHP-FPM, HAProxy, Sentry, Pinba, Grafana.
-
-## Примеры кода
-[Раз](https://github.com/ilyachase/realforce_coding_test) и [два](https://github.com/ilyachase/rainbow_score_api).
-
-## О себе
-### Кратко о карьере
-Сразу после защиты диплома получил должность PHP-программиста в 74.ru. Хотел именно туда, потому что 74.ru – это хайлоад, сложный продукт, разрабатываемый крутой командой. Уже к концу года получил повышение до Ведущего PHP-программиста. После интеграции 74.ru и NGS.ru, занимался такими проектами, как [НГС.Знакомства](https://love.ngs.ru/), [НГС.Афиша](https://afisha.ngs.ru/), [НГС.Форум](https://forum.ngs.ru/), [НГС.Объявления](https://do.ngs.ru/) и другими. Последний год был Тимлидом команды веб-разработки из 6 человек.
-Занимался все спектром разработки – не только код, но и инфраструктура, архитектура и дизайн приложений, CI\CD, улучшение процесса разработки (внедрял SCRUM), внедрение стандартов. В свободное время [занимаюсь фрилансом](https://www.upwork.com/freelancers/~012c6b4205549a7dc4) на зарубежной бирже.
-
-### О компетенциях
-#### Код
-В момент устройства в 74.ru, наша команда активно развивала проект, на котором «крутились» все сайты [сети Rugion](https://rugion.ru/stat/): 74.ru, 72.ru, 63.ru и остальные. Помимо новостных ресурсов, на том же коде работали classified-площадки: domchel.ru (сейчас интегрирован с N1), autochel.ru (интегрирован с auto.ru) и их зеркала на других регионах.
-
-Код представлял собой рукописный фреймворк с более чем 1 300 000 строк (без учёта вендоров). В тот момент для меня это была самая сложная система, над которой я когда-либо работал. В результате, получил скачкообразный рост, познакомился со многими подходами (реализация отказоустойчивости, распределение нагрузки, организация кода в мульти-доменной многосервисной системе) и хайлоадными «фишками» (изменение структуры очень горячих таблиц, работа с «долгими» скриптами (от нескольких дней), умный stale-кэшинг и т.д.).
-
-<p align="center">
-  <img src="https://github.com/ilyachase/curriculum_vitae/blob/master/img/stanok_code_stats.jpg?raw=true" alt="Stanok code stats"/>
+<p align="center">  
+  <img src="https://github.com/ilyachase/curriculum_vitae/blob/master/img/stanok_code_stats.jpg?raw=true" alt="Stanok code stats"/>  
 </p>
 
-Далее были проекты вертикали НГС: Знакомства, Афиша, Форум, Объявления. Они были написаны давно, на внутреннем фреймворке. По сути, все стандартные элементы любого фреймворка, но написанные руками: роутинг, request\response, ORM, CLI-команды.
-Для НГС.Афиши писали новое API на фреймворке Slim, описывали Swagger'ом.
+Last year of my work at 74.ru, our team was supporting very complicated forums board called NN.ru. It's very big and old legacy project, so my solution here was to integrate a modern PHP micro framework called Slim right in the same repository and to start re-factoring old stuff along with implementing new features. As a result, business tasks wasn't stuck, but we also made a good job on improvement of the current codebase.
+After that, I started working as a full-time remote PHP-developer at Realforce. Here I've learned more deeply the beauty of Symfony, and now I actually use it in every side-project.
+Overall, I would say that I love modern frameworks and clean coding, but I'm not afraid of difficult tasks related to old and big legacy projects.
 
-Последний год с новой командой, в которой я был Тимлидом, работали над всеми Форумами HSD RN (74.ru, NGS.RU, NN.RU и E1). Из наиболее запомнившегося можно выделить исходный код NN.RU, который в части сложности, запутанности и количества легаси переплюнул всё, с чем приходилось работать до этого. Приняли решение переписывать его постепенно, внедрив рядом микро-фреймворк Slim. Тем самым, бизнес-задачи не стопорились, а код постепенно переносился на новые рельсы. Опыт успешний, сделали несколько довольно крупных задач (например, рездизайн страницы темы на форуме), количество «живого» кода на новых рельсах увеличивалось, а стоимость разработки уменьшалась.
-
-#### Фреймворки
-Помимо основной работы, неприрывно пробую новые технологии на фриланс-заказах. Таким образом наработал навык быстрой разработки на yii2. Нравится [gii](https://www.yiiframework.com/doc/guide/2.0/en/start-gii), но не нравится то, что модули этого фреймворка [прибиты](https://github.com/yiisoft/yii2/issues/11328) к нему [гвоздями](https://github.com/yiisoft/di/issues/23), не реализуя PSR-интерфейсы.
-
-С Laravel познакомился при работе над NN.RU – там был набор «микросервисов» (по сути, отдельных небольших проектов) на Laravel, реализующих разный бизнес-функционал (работа с форумом, юзерами, галереями и т.д.). В Laravel нравится [DI](https://laravel.com/docs/5.7/container) и реализация консольных команд через artisan, но сильно не нравятся [Фасады](https://laravel.com/docs/5.8/facades), которые убивают поддержку кода IDE. Приходится использовать специальные [хаки](https://github.com/barryvdh/laravel-ide-helper) (кстати, в yii2 тоже есть такая [проблема](https://github.com/samdark/yii2-cookbook/blob/master/book/ide-autocompletion.md)).
-
-Работая на Slim 3, тут и там сталкиваешься с тем, что нужно внедрить довольно тривиальный функционал: поддержка CLI-команд, авторизация\аутентификация, поддержку кэшей и т.д. Ничего этого нет в Slim «из коробки» (ведь это микрофреймворк), и в данной ситуации отлично помогает Symfony. Их реализация [консольных команд](https://symfony.com/doc/current/console.html) остаётся моей любимой, а [компонент авторизации](https://symfony.com/doc/current/components/security/authentication.html) действительно framework agnostic и безболезненно интегрируется в Slim (да и любой другой фреймворк). Отдельной похвалы заслуживает [DomCrawler](https://symfony.com/doc/current/components/dom_crawler.html), который избавляет от [боли](https://stackoverflow.com/a/1732454) работы с разметкой через регулярки или XPath (который [не так тривиален](https://stackoverflow.com/a/1604480), как кажется на первый взгляд).
-
-<p align="center">
-  <img src="https://github.com/ilyachase/curriculum_vitae/blob/master/img/code_example.png?raw=true" alt="Stanok code stats"/>
+The one thing that was tickling me recently is that my frontend skills were relatively old: jQuery and Bootstrap v2. So I decided to learn one modern frontend framework, and I've chosen React. In my case "learn" is to successfully deliver at least one real commercial project using this technology, and I've succeeded in that - I've made a survey webapp for German's school. Here an example:
+<p align="center">  
+  <img src="https://github.com/ilyachase/curriculum_vitae/blob/master/img/dalum.gif?raw=true" alt="React example" />  
 </p>
-
-Желание больше писать на микрофреймворках обусловлено стремлением к написанию framework agnostic кода. Со временем хочу прийти к написанию приложений не на MVC, который морально устаревает, а на какой-нибудь реализации Clean Architecture, которая по определению не зависит от фреймворков. Пока что прихожу к тому, чтобы более тщательно раскладывать код по модулям, и более детально разбиваю букву «M» из MVC на слои.
-
-Примеры моего кода можно увидеть [здесь](https://github.com/ilyachase/realforce_coding_test) и [здесь](https://github.com/ilyachase/rainbow_score_api).
-
-Помимо этого, имею представление о современном фронте: на [мобильную версию](https://m.love.ngs.ru/?not_redirect_mobile=1) НГС.Знакомств внедряли Webpack + Vue.js. Немного сам умею в Javascript: начинал как и все с jQuery, затем перешёл на ES6 и Vanilla. Проявляю интерес к Golang (есть выполненные фриланс-заказы на нём).
-
-#### Тестирование
-Я люблю тестирование и то, как вследствие написания тестов изменияется и расцепляется код. В компании внедрял сначала end-to-end тесты через Selenium, потом перешли на более быстрые функциональные + юнит тесты. Использовал как Codeception, так и обычный PHPUnit.
-
-<p align="center">
-  <img src="https://github.com/ilyachase/curriculum_vitae/blob/master/img/tests_output.png?raw=true" alt="Tests output" />
-</p>
-
-#### Инфраструктура и сопутствующие технологии
-Помимо непосредственно написания кода, во время работы познакомился с подходами в построении архитектуры для highload-приложений. Довольно плотно работал с Nginx, понимаю, как балансировать с помощью HAProxy и proxy_pass. Работал с кластерными решениями баз (Percona, MongoDB cluster, Apache Cassandra) и хранилищ статики (OpenStack Swift). Для отложенных задач использовал RabbitMQ и beanstalkd.
-
-Весь продакшн был у нас в контейнерах, так что с ними тоже знаком. В компании использовалось кастомное решение, а во всей домашней разработке использую Docker.
-
-Понимаю, что такое репликация и шардинг. Приходилось оптимизировать запросы, разбираться в тонкостях индксов MariaDB и том, как она исполняет запросы, которые не влазят в буфер. Бывало, приходилось работать с таблицами размером больше 100 миллионов записей.
-
-Кроме реляционных баз, работал с MongoDB, Redis и Cassandra. Из поисковых индексов работал со Sphinx и Manticore. Есть желание познакомиться с другими – например, с Elasticsearch.
-
-Довольно неплохо понимаю, как работает HTTP: не составит труда рассказать, как работает SSL, что такое CORS или написать простой GET-запрос текстом прямо в telnet.
-
-И вообще, считаю полезным уметь при необходимости из терминала отредактировать файл через vim, что-нибудь grep-нуть, а если надо, то послушать весь трафик по порту через ngrep.
-
-<p align="center">
-  <img src="https://github.com/ilyachase/curriculum_vitae/blob/master/img/ngrep.png?raw=true" alt="ngrep" />
-</p>
-
-#### Мониторинг
-Для команды разработки важно получать сигналы о проблемах на продакшне. Отлов ошибок мы делали в Sentry, а время работы элементов системы измеряли с помощью Pinba – собирали данные и затем складывали в Grafana. Там же агрегировали значения из логов Nginx. Для мониторинга железа и настройки соответствующих триггеров в компании использовался Zabbix.
-
-<p align="center">
-  <img src="https://github.com/ilyachase/curriculum_vitae/blob/master/img/grafana.png?raw=true" alt="grafana" />
-</p>
-
-### Мотивация
-Хочу любить то, что делаю. Вдохновляют продукты, над которыми работают такие же перфекционисты, как и я. Хочу создавать то, что приносит людям пользу и радость: найти проект, в который влюблюсь сам и буду вкладывать в него душу.
+  
+Beside the actual coding, I have experience with multiple infrastructure and monitoring solutions, such as Percona, MongoDB cluster, replication, sharding, etc. I have some starting experience with Kubernetes and would like to work more with it.  
+Have experience with optimization of queries and finding bottlenecks.
+  
+<p align="center">  
+  <img src="https://github.com/ilyachase/curriculum_vitae/blob/master/img/grafana.png?raw=true" alt="grafana" />  
+</p>  
+  
+*My motivation:* I want to love what I do. I'm inspired by products that are made by the same kind of perfectionists as I am. I want to be a part of something, that people love and use every day.
