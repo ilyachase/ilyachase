@@ -1,5 +1,4 @@
 ## Personal information
-<img align="right" src="https://github.com/ilyachase/curriculum_vitae/blob/master/img/me.jpg?raw=true" alt="ilya.chase"/>  
   
 - Full name: Levin Ilya Viktorovich  
 - Birth date: 06.12.1992  
