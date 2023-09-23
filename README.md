@@ -1,10 +1,10 @@
 ## Personal information
   
-- Full name: Levin Ilya Viktorovich  
+- Full name: Levin Ilya  
 - Birth date: 06.12.1992  
-- Family status: single  
-- Current location: Russia, Chelyabinsk  
-- Email address: ilya.chase@yandex.ru
+- Family status: married  
+- Current location: Russia, Yekaterinburg
+- LinkedIn: [ilyachase](https://www.linkedin.com/in/ilyachase/)
   
 ## Education  
 South Ural State University: Bachelor of Mathematics and Information Technology
@@ -20,26 +20,19 @@ South Ural State University: Bachelor of Mathematics and Information Technology
 	- PHPUnit, Codeception
 	- Jest, Selenium
 - Storages:
-	- MySQL, Percona
+	- MySQL
 	- Memcache, Redis
 	- MongoDB, Apache Cassandra
+ 	- ElasticSearch
 - Async
 	- RabbitMQ, beanstalk
 - Containerization, CI\CD:
 	- Docker, docker-compose
 	- Github actions, Bitbucket pipelines, drone.io, Jenkins
 - Infrastructure:
-	- Nginx, PHP-FPM, HAProxy, Sentry, Grafana
+	- Nginx, PHP-FPM, HAProxy, Bugsnag, Sentry, Grafana, Graylog
 - Profiling:
-	- Pinba, Blackfire
-  
-## Working experience  
-- *2016 – 2019*  
-	- *Company: [Hearst Shkulev Digital Regional Network](http://www.hearst-shkulev-media.ru/projects/rn/).*  
-	- *Position: Senior PHP-developer, Teamlead.*  
-- *2019 - currently*  
-	- *Company: [Realforce](https://www.realforce.ch/).*  
-	- *Position: Senior PHP-developer (remote).*
+	- NewRelic, Blackfire, Pinba, xDebug
 
 ## About me
 Right after finishing my bachelor's degree, I started working as a junior PHP developer at a popular high-load News site called 74.ru.
@@ -85,4 +78,4 @@ Have the experience with optimization of queries and finding bottlenecks.
   <img src="https://github.com/ilyachase/curriculum_vitae/blob/master/img/grafana.png?raw=true" alt="grafana" />  
 </p>  
   
-**My motivation:** I want to love what I do. I'm inspired by products that are made by the same kind of perfectionists as I am. I want to be a part of something, that people love and use every day.
+**My motivation:** Engineering is my passion. I want to be a part of something that people love and use every day.
