@@ -1,6 +1,6 @@
 ## Personal information
   
-- Full name: Levin Ilya  
+- Full name: Ilya Levin
 - Birth date: 06.12.1992  
 - Family status: married  
 - Current location: Russia, Yekaterinburg
