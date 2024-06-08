@@ -3,7 +3,6 @@
 - Name: Ilya Levin
 - Birth date: 06.12.1992  
 - Family status: married  
-- Current location: Yekaterinburg, Russia
 - LinkedIn: [ilyachase](https://www.linkedin.com/in/ilyachase/)
   
 ## Education  
