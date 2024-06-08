@@ -5,9 +5,6 @@
 - Family status: married  
 - LinkedIn: [ilyachase](https://www.linkedin.com/in/ilyachase/)
   
-## Education  
-South Ural State University: Bachelor of Mathematics and Information Technology
-  
 ## Skillset  
 - Backend:
 	- PHP - Symfony, Laravel, Yii2, Slim
@@ -32,6 +29,9 @@ South Ural State University: Bachelor of Mathematics and Information Technology
 	- Nginx, PHP-FPM, HAProxy, Bugsnag, Sentry, Grafana, Graylog
 - Profiling:
 	- NewRelic, Blackfire, Pinba, xDebug
+  
+## Education  
+South Ural State University: Bachelor of Mathematics and Information Technology
 
 ## About me
 Right after finishing my bachelor's degree, I started working as a junior PHP developer at a popular high-load News site called 74.ru.
