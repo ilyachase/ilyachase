@@ -8,6 +8,7 @@
 ## Skillset  
 - Backend:
 	- PHP - Symfony, Laravel, Yii2, Slim
+ 	- Node.js - Fastify
 	- Golang
 - Frontend:
 	- React, redux, axios
