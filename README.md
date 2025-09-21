@@ -11,15 +11,19 @@ I believe great software isn't just about clean code—it's about understanding 
 ## Where I've made impact
 
 **@ US healthcare company (confidential)**
+
 Building an AI support agent from the ground up, creating intelligent systems that help people live healthier lives
 
 **@ Lokalise**
+
 Solved critical scalability challenges that enabled rapid startup growth, mentored engineers and tackled complex Elasticsearch challenges at enterprise scale
 
 **@ Realforce**
+
 Architected modern Symfony solutions for real estate classifieds
 
 **@ 74.ru**
+
 Led 6 developers building a high-load news platform serving millions daily. Mastered the art of keeping 1.3M+ lines of legacy code both maintainable and performant.
 
 ## Passion projects
