@@ -10,13 +10,16 @@ I believe great software isn't just about clean code—it's about understanding 
 
 ## Where I've made impact
 
-**@ Lokalise**  
-Mentoring engineers and solving complex Elasticsearch challenges at scale
+**@ US healthcare company (confidential)**
+Building an AI support agent from the ground up, creating intelligent systems that help people live healthier lives
 
-**@ Realforce**  
-Architected modern Symfony solutions and deep-dived into Elasticsearch capabilities
+**@ Lokalise**
+Solved critical scalability challenges that enabled rapid startup growth, mentored engineers and tackled complex Elasticsearch challenges at enterprise scale
 
-**@ 74.ru**  
+**@ Realforce**
+Architected modern Symfony solutions for real estate classifieds
+
+**@ 74.ru**
 Led 6 developers building a high-load news platform serving millions daily. Mastered the art of keeping 1.3M+ lines of legacy code both maintainable and performant.
 
 ## Passion projects
@@ -32,7 +35,7 @@ Turned years of refactoring experience into a comprehensive technical article. R
 
 ## Open source contributions
 
-**[Symfony Framework](https://github.com/symfony/symfony)** - Contributing to one of PHP's most robust frameworks  
+**[Symfony Framework](https://github.com/symfony/symfony)** - Contributing to one of PHP's most robust frameworks
 **[LLM Agents for PHP](https://github.com/llm-agents-php/agents)** - Building the future of AI-powered PHP applications
 
 ## Tech I work with
